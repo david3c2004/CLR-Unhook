@@ -9,7 +9,7 @@ This tool removes security product hooks from the CLR's `nLoadImage` function - 
 
 ## What Does This Do?
 
-Modern security products (Defender, CrowdStrike, SentinelOne, etc.) hook the `nLoadImage` function inside `clr.dll` to intercept and scan in-memory .NET assembly loads. This tool unhooks that function by:
+Modern security products (BitDefender, CrowdStrike, SentinelOne, etc.) hook the `nLoadImage` function inside `clr.dll` to intercept and scan in-memory .NET assembly loads. This tool unhooks that function by:
 
 1. Reading the clean `clr.dll` from disk
 2. Finding the original `nLoadImage` bytes
