@@ -191,6 +191,7 @@ Uses pattern scanning to locate `nLoadImage`:
 
 **Implementation:**
 - **HWBP** - CLR unhooking via memory restoration
+- **@Evilbytecode** - Helped me with Unhooking, i had some issues with .net being jit.
 
 ## Disclaimer
 
